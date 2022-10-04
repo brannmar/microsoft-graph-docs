@@ -120,7 +120,7 @@ Content-Type: application/json
       "displayName": "Cost center",
       "localizations": [
         {
-          "languageTag": "de",
+          "languageTag": "de-DE",
           "displayName": "Kostenstelle"
         }
       ]
@@ -146,7 +146,7 @@ Content-type: application/json
       "displayName": "Cost center",
       "localizations": [
         {
-          "languageTag": "de",
+          "languageTag": "de-DE",
           "displayName": "Kostenstelle"
         }
       ]
